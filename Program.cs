@@ -2,14 +2,14 @@
 
 class Program
 {
-    static void Main(string[]args)
+    static void Main(string[] args)
     {
         Console.WriteLine("Hello, what is your name?");
-        var userName= Console.ReadLine();
-        
+        var userName = Console.ReadLine();
+
         Console.WriteLine($"Hello {userName}, what is your favorite subject?");
 
-        var subject= Console.ReadLine();
+        var subject = Console.ReadLine();
 
         switch (subject)
         {
@@ -19,7 +19,7 @@ class Program
 
             case "Math":
                 Console.WriteLine("Math is very hard, I am surprised its your favorite subject since you are human");
-                break ;
+                break;
 
             case "Science":
                 Console.WriteLine("My uncle likes Science as well, lets do experiments!!");
@@ -32,7 +32,7 @@ class Program
             case "Chemistry":
                 Console.WriteLine("Chemistry is fun, lets make a valcano");
                 break;
-            
+
             default:
                 Console.WriteLine($"I have never heard of that subject before, {subject} sounds neat!");
                 break;
@@ -42,7 +42,7 @@ class Program
 
 
 
-                
+
         }
 
 
@@ -71,16 +71,32 @@ class Program
             Console.WriteLine("you got it");
         }
 
-    
-      
-    
-    
+
+
+
+        IsnumberOdd(5);  
+        
     }
 
 
 
 
-
+  public static void IsnumberOdd(int number)
+    {
+       Console.WriteLine("Give me a number and i will tell if its even or odd");
+        number = int.Parse(Console.ReadLine());
+        if (number%2 != 0)
+        {
+           
+          Console.WriteLine("the number is odd");
+        }
+        else
+        {
+            Console.WriteLine("the number is even");
+        }
+        
+       
+    }
 
 
 
