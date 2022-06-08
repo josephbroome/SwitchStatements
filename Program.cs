@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[]args)
     {
-        Console.WriteLine("Hello, what is your name");
+        Console.WriteLine("Hello, what is your name?");
         var userName= Console.ReadLine();
         
         Console.WriteLine($"Hello {userName}, what is your favorite subject?");
