@@ -37,9 +37,12 @@ class Program
                 Console.WriteLine($"I have never heard of that subject before, {subject} sounds neat!");
                 break;
 
-  
-        
-        
+
+
+
+
+
+                
         }
 
 
@@ -49,7 +52,24 @@ class Program
 
 
 
+        var favoriteNumber = 200;
 
+        var userGuess = int.Parse(Console.ReadLine());
+
+        if (userGuess < favoriteNumber)
+        {
+            Console.WriteLine("to low");
+
+        }
+        else if (userGuess > favoriteNumber)
+        {
+            Console.WriteLine("to high");
+        }
+
+        else
+        {
+            Console.WriteLine("you got it");
+        }
 
     }
 
