@@ -1,0 +1,15 @@
+C:\Users\serge\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.exe
+C:\Users\serge\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.deps.json
+C:\Users\serge\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.runtimeconfig.json
+C:\Users\serge\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.dll
+C:\Users\serge\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.pdb
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.AssemblyInfo.cs
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.dll
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\refint\SwitchStatements.dll
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.pdb
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.genruntimeconfig.cache
+C:\Users\serge\repos\SwitchStatements\obj\Debug\net6.0\ref\SwitchStatements.dll
